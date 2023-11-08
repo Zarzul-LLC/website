@@ -1,0 +1,96 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+header {
+  background-image: url('client_background');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  color: white;
+  text-align: center;
+  padding: 50px 0;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+main {
+  padding: 50px 0;
+}
+
+.features {
+  text-align: center;
+}
+
+.features h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.features ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.features li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(255, 255, 255, 0.2);
+}
+
+.features li:hover {
+  background-color: hsl(281, 100%, 48%);
+}
+
+.installation {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.installation h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.installation ol {
+  list-style-type: decimal;
+  margin: 0;
+  padding: 0;
+}
+
+.installation li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.installation li:hover {
+  background-color: #000000;
+}
+
+footer {
+  background-color: #222;
+  color: rgb(0, 0, 0);
+  text-align
+}
