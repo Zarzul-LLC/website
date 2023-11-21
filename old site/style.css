@@ -1,0 +1,97 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(26, 0, 36);
+}
+
+header {
+  background-image: url('');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 50px 0;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: rgb(255, 255, 255)
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+main {
+  padding: 50px 0;
+  color: rgb(0, 102, 255);
+}
+
+.features {
+  text-align: center;
+}
+
+.features h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.features ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.features li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(111, 121, 255);
+  background-color: #00000000;
+}
+
+.features li:hover {
+  background-color: hsla(0, 0%, 100%, 0);
+}
+
+.installation {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.installation h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+
+}
+
+.installation ol {
+  list-style-type: decimal;
+  margin: 0;
+  padding: 0;
+}
+
+.installation li {
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(111, 121, 255);
+}
+
+.installation li:hover {
+  background-color: #c2000000;
+}
+
+footer {
+  color: rgb(255, 255, 255)
+  text-align
+}
